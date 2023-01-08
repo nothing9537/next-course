@@ -1,0 +1,19 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"title": "First lorem post",
+			"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem obcaecati iusto quo minima eos ad earum. Vero, fugiat? Suscipit, neque?"
+		},
+		{
+			"id": 2,
+			"title": "Second lorem post",
+			"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta libero sequi dolores, explicabo quae possimus illo nisi architecto? Natus repudiandae rerum libero quod minus facere praesentium, error magni explicabo officiis magnam. Earum doloribus suscipit ex laborum pariatur in mollitia voluptate ad vero reprehenderit autem, dolores dignissimos ipsa at quod sunt."
+		},
+		{
+			"id": 3,
+			"title": "Third lorem post",
+			"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta libero sequi dolores, explicabo quae possimus illo nisi architecto? Natus repudiandae rerum libero quod minus facere praesentium, error magni explicabo officiis magnam."
+		}
+	]
+}
