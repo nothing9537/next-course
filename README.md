@@ -2,10 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-To run the application, you need install 'json-server' by command 'npm i -g json-server' and in CMD run serve-app script by 'npm run serve-app'
+To run the application, you need to run the two commands below in CMD in the project directory one by one. The first command only needs to be executed once.
 
 ```bash
-
+npm i -g json-server
+#
+npm run serve-app
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
