@@ -2,12 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+To run the application, you need install 'json-server' by command 'npm i -g json-server' and in CMD run serve-app script by 'npm run serve-app'
 
 ```bash
-npm run dev
-# or
-yarn dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
